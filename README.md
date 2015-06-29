@@ -2,6 +2,8 @@
 
 Version: 1.0.4
 
+Forked from https://github.com/danheberden/gith to update the github payload format
+
 gith[ooks] - a simple node server that responds to github post-receive events with meaningful data
 
 ## Getting Started
